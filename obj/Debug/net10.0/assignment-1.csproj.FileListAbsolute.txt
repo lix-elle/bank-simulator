@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\bin\Debug\net10.0\assignment-1.exe
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\bin\Debug\net10.0\assignment-1.deps.json
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\bin\Debug\net10.0\assignment-1.runtimeconfig.json
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\bin\Debug\net10.0\assignment-1.dll
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\bin\Debug\net10.0\assignment-1.pdb
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\obj\Debug\net10.0\assignment-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\obj\Debug\net10.0\assignment-1.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\obj\Debug\net10.0\assignment-1.AssemblyInfo.cs
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\obj\Debug\net10.0\assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\obj\Debug\net10.0\assignment-1.dll
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\obj\Debug\net10.0\refint\assignment-1.dll
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\obj\Debug\net10.0\assignment-1.pdb
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\obj\Debug\net10.0\assignment-1.genruntimeconfig.cache
+C:\Users\jerem\Desktop\apps-dev-class\February 7, 2026\assignment-1\assignment-1\obj\Debug\net10.0\ref\assignment-1.dll
