@@ -36,7 +36,7 @@ namespace ATMApp.Services
 
             if (amount <= 0)
             {
-                return; // Exit the method if invalid amount
+                return;
             }
 
             if (balance >= amount)
